@@ -4,6 +4,8 @@ Final project for Udacity Linux Server Configuration course
 ## Server details
 
 * IP address: 35.160.212.183
+* SSH port: 2200
+* Grader user name: `grader`
 * URL of 'Book catalog' project: http://35.160.212.183/
 * URL of 'Portfolio' project: http://35.160.212.183/portfolio/
 
